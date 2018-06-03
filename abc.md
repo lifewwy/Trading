@@ -1,8 +1,9 @@
 # 胜率 VS 赔率
 
-如果亏损 50%，ying'li
+如果亏损 50%，盈利 100% 才能恢复。
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc3NzU5LDE0MDk1MDg0MzgsLTE0OT
-MzODUxNzZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjI5MDQ1MjgsMTQwOTUwODQzOCwtMT
+Q5MzM4NTE3Nl19
 -->
